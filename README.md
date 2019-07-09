@@ -2,6 +2,8 @@
 
 This is Direct3D 9 proxy file, which hooks the The Saboteur internal Lua engine, and adds console to the game.
 
+[![Video Example](https://img.youtube.com/vi/D0Vcwdo6bHg/0.jpg)](https://www.youtube.com/watch?v=D0Vcwdo6bHg)
+
 # Usage
 
 - Press F8 to open the console and just write the Lua code.
